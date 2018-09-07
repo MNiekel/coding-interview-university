@@ -198,7 +198,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git fetch --all`
 
- -[x]   Mark all boxes with X after you completed your changes
+- [x]   Mark all boxes with X after you completed your changes
 
 `git add . `
 
