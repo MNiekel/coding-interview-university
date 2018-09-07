@@ -190,7 +190,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
 
-[x]   Fork a branch and follow the commands below
+- [x]   Fork a branch and follow the commands below
 
 `git checkout -b progress`
 
@@ -198,7 +198,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git fetch --all`
 
-    Mark all boxes with X after you completed your changes
+ -[x]   Mark all boxes with X after you completed your changes
 
 `git add . `
 
